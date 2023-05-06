@@ -1,0 +1,42 @@
+body { background: url(../img/rush-reg.jpg) no-repeat 50% 0; background-size: cover;}
+.rush-main {width:960px; margin: 0 auto; position: absolute;top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-moz-transform: translate(-50%, -50%);-o-transform: translate(-50%, -50%);transform: translate(-50%, -50%);}
+.rush-main .top { height: 79px; background: url(../img/rush-bg02.png);}
+.rush-main .content { padding: 0 90px 30px; line-height: 36px; background: #fff; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;}
+.rush-main .txt {  font-size: 15px;}
+.rush-main .txt  b{  color: #f60;
+    font-weight: bold;}
+.rush-main h1 { font-weight: 400; text-align: center; font-size: 36px; color: #1c6cad; line-height: 80px;}
+.rush-main h2 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 19px;
+    color: #1c6cad;
+    line-height: 10px;
+    margin-bottom: 15px;
+}
+.rush-main h3 {
+    font-weight: 400;
+    font-size: 36px;
+    color:#e03b25;
+    line-height: 10px;
+    margin-bottom: 15px;
+}
+.rush-main .bottom { line-height: 80px; background: #fff; margin-top: 20px; font-size: 15px; border-radius: 10px; text-align: left; padding: 0 90px;}
+.rush-main .link { text-align: center; text-decoration: underline; }
+.rush-main .link a{ color:#1c6cad;}
+.rush-main .copyright { text-align: center; color: #333; margin-top: 80px; font-size: 14px;}
+.rush-main .copyright p { margin-bottom: 20px;}
+.rush-main .copyright a{ color: #333;}
+.left,.right { position: fixed; top: 20%;}
+.left { left: 0;}
+.right { right: 0;}
+.am_box {
+    border: 1px solid #FFD376;
+    background: #fffbe5;
+    padding: 10px 20px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+
+  
